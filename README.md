@@ -17,59 +17,16 @@ AI Engineer • Full Stack Developer • Hackathon Builder 🚀
 </div>
 
 
+<!---  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
 ###
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
 
 
 ###
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Murf-AI-orange?style=for-the-badge" />
-</p>
-
-### 💳 Payments & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🚀 Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,netlify,npm" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nextjs,tailwind,vite&perline=10" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,docker,git,github,vscode,postman,vercel&perline=11" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/> </p>
 
 
 ###

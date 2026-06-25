@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Omkar parelkar and I'm a Developer, from Mumbai</h2>
 
+
+<!-- For Github Stats Data -->
 ###
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkar-103&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -13,21 +15,54 @@
 
 
 ###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Murf-AI-orange?style=for-the-badge" />
+</p>
+
+### 💳 Payments & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🚀 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel,netlify,npm" />
+</p>
 
 
 ###

@@ -1,18 +1,18 @@
 <h2 align="left">Hi 👋! My name is Omkar parelkar and I'm a Developer, from Mumbai</h2>
 
 ###
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkar-103&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-103&layout=compact&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omkar-103&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=omkar-103&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-103&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-###
 
+###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -29,8 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
+###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -41,7 +41,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 

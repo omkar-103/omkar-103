@@ -46,6 +46,8 @@
 
 
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/omkar-103/omkar-103/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ###

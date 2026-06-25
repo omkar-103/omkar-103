@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Omkar Parelkar</h1>
 
 <h2 align="center">
-AI & Full Stack Developer • Hackathon Builder 🚀
+AI & Full Stack Developer •  Builder 🚀
 </h2>
 
 <!-- Hero GIF -->

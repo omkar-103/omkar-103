@@ -23,7 +23,8 @@ AI & Full Stack Developer •  Builder 🚀
 ---
 
 
-<!-- GitHub Stats -->
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics & Insights 📊</h2>
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkar-103&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://streak-stats.demolab.com?user=omkar-103&theme=github-dark&hide_border=true"/>
@@ -33,7 +34,7 @@ AI & Full Stack Developer •  Builder 🚀
 ---
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,react,nextjs,tailwind,vite&perline=10" />
 </p>
@@ -70,7 +71,8 @@ AI & Full Stack Developer •  Builder 🚀
 
 ---
 
-<!--- Packman -->
+<!-- Pac-Man Contribution Graph --> 
+<h2 align="center">👾 Pac-Man Contribution Graph</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

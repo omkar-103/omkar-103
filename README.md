@@ -30,21 +30,20 @@ AI Engineer • Full Stack Developer • Hackathon Builder 🚀
 
 
 ###
-<h2 align="center">🌐 Connect With Me</h2>
-
+<h2 align="center">🤝 Let's Build Something Amazing Together</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/omkar-parelkar" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-<a href="mailto:omkarparelkar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-<a href="https://github.com/omkar-103" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-<a href="https://omkarparelkar.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/omkar-parelkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="mailto:omkarparelkar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  <a href="https://github.com/omkar-103" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  <a href="https://omkarparelkar.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chrome" height="50" />
+  </a>
 </p>
 
 

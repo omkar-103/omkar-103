@@ -1,5 +1,12 @@
-<h2 align="left">Hi 👋! My name is Omkar parelkar and I'm a Developer, from Mumbai</h2>
+<h1 align="center">Hi 👋 I'm Omkar Parelkar</h1>
 
+<h2 align="center">
+AI Engineer • Full Stack Developer • Hackathon Builder 🚀
+</h2>
+
+<p align="center">
+  <img width="700" src="https://raw.githubusercontent.com/omkar-103/omkar-103/main/assets/omkar-103-githubgif.gif" />
+</p>
 
 <!-- For Github Stats Data -->
 ###
@@ -11,7 +18,7 @@
 
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 
 ###

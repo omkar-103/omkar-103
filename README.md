@@ -42,8 +42,11 @@ AI Engineer • Full Stack Developer • Hackathon Builder 🚀
     <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
   <a href="https://omkarparelkar.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome" height="50" />
-  </a>
+  <img src="https://raw.githubusercontent.com/omkar-103/omkar-103/main/assets/favicon.ico"
+       height="50"
+       width="50"
+       alt="Portfolio" />
+</a>
 </p>
 
 

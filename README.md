@@ -35,6 +35,8 @@ AI & Full Stack Developer •  Builder 🚀
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
+
+
 <!-- Connect -->
 <h2 align="center">🤝 Let's Build Something Amazing Together</h2>
 
@@ -53,7 +55,16 @@ AI & Full Stack Developer •  Builder 🚀
   </a>
 </p>
 
-<!-- Contribution Snake -->
+<!--- Packman -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkar-103/omkar-103/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph.svg">
+    <img
+      width="900"
+      alt="Pac-Man Divider"
+      src="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph.svg">
+  </picture>
 </p>

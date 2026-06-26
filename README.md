@@ -76,9 +76,9 @@ AI & Full Stack Developer •  Builder 🚀
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/omkar-103/omkar-103/output/pacman-contribution-graph-dark.svg">
     <img
       width="900"
       alt="Pac-Man Divider"

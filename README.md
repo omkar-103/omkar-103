@@ -17,7 +17,7 @@ AI & Full Stack Developer •  Builder 🚀
 
 <!-- Hero GIF -->
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/omkar-103/omkar-103/main/assets/omkar-103-githubgif.gif" />
+  <img width="600" src="https://raw.githubusercontent.com/omkar-103/omkar-103/main/assets/omkar-github.gif" />
 </p>
 
 ---
